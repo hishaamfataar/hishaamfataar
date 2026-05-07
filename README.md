@@ -1,6 +1,7 @@
 ## Portfolio
----
 hishaam.co.za
+## Contact
+hishaamfataar@gmail.com
 
 <!--
 **hishaamfataar/hishaamfataar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
