@@ -2,6 +2,9 @@
 [hishaam.co.za](https://www.hishaam.co.za)
 ## Contact
 hishaamfataar@gmail.com
+## Socials
+[Instagram](https://www.instagram.com/hishaamfataar)
+[LinkedIn](https://www.linkedin.com/in/hishaam-fataar-b587952b9/)
 
 <!--
 **hishaamfataar/hishaamfataar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
