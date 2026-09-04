@@ -1,5 +1,5 @@
 ## Portfolio
-[hishaam.co.za](https://www.hishaam.co.za)
+[hishaamfataar.com](https://hishaamfataar.com)
 ## Contact
 hishaamfataar@gmail.com
 ## Socials
